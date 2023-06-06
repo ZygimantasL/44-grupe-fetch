@@ -1,0 +1,15 @@
+{
+  "name": "44-grupe-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "dead-server host:localhost port:27009"
+  },
+  "author": "ZygimantasL",
+  "license": "MIT",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
